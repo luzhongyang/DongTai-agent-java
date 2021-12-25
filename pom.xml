@@ -19,7 +19,7 @@
         <maven.compiler.target>1.6</maven.compiler.target>
         <maven.deploy.plugin.version>3.2.0</maven.deploy.plugin.version>
         <maven.compiler.version>2.3.2</maven.compiler.version>
-        <commons.cli.versin>1.4</commons.cli.versin>
+        <commons.cli.versin>1.5.0</commons.cli.versin>
         <sun.tools.version>1.6</sun.tools.version>
         <!--docker环境下配置-->
         <sun.tools.systempath>${java.home}/../lib/tools.jar</sun.tools.systempath>
