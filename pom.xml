@@ -42,7 +42,7 @@
         <javax.servlet-api>3.1.0</javax.servlet-api>
         <servlet-api>2.4</servlet-api>
         <jakarta.servlet-api>5.0.0</jakarta.servlet-api>
-        <oshi-core.version>3.13.6</oshi-core.version>
+        <oshi-core.version>3.14.0</oshi-core.version>
     </properties>
 
     <build>
