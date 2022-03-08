@@ -14,7 +14,7 @@
     <properties>
         <jdk.version.level>2</jdk.version.level>
         <lombok.version>1.18.20</lombok.version>
-        <apache-httpclient.version>4.3</apache-httpclient.version>
+        <apache-httpclient.version>4.5.13</apache-httpclient.version>
     </properties>
 
     <build>
